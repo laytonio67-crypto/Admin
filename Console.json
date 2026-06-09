@@ -9,9 +9,14 @@
       "name": "Proximate",
       "user-id": "48CF7CA87DB58D05"
     },
+    {
+      "name": "Thepjmm23",
+      "user-id": "BC20BBDOF740D461"
+    },
   ],
   "super-admins": [
     "Proximate",
-    "Guff"
+    "Guff",
+    "Thepjmm23"
   ]
 }
