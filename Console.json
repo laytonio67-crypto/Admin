@@ -4,9 +4,14 @@
     {
       "name": "Guff",
       "user-id": "2F2A7D5D76A8F4A6"
-    }
+    },
+    {
+      "name": "Proximate",
+      "user-id": "48CF7CA87DB58D05"
+    },
   ],
   "super-admins": [
-    "Guff"
+    "Guff",
+    "Alice"
   ]
 }
