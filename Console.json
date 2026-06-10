@@ -21,13 +21,21 @@
       "name": "iron",
       "user-id": "C0CAE48FB84B0E5B"
     },
-     {
+    {
       "name": "Lexi",
       "user-id": "467114172575CC01"
     },
     {
       "name": "Lexi",
       "user-id": "A4E06D8CDF522CDA"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "19CC01E8F0B98F01"
+    },
+    {
+      "name": "Cha",
+      "user-id": "E561B7176AAC1245"
     },
   ],
   "super-admins": [
@@ -36,6 +44,8 @@
     "Thepjmm23",
     "Killez",
     "iron",
-    "Lexi"
+    "Lexi",
+    "kingofnetflix",
+    "Cha"
   ]
 }
