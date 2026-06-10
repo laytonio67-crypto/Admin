@@ -19,13 +19,14 @@
     },
     {
       "name": "iron",
-      "user-id": "COCAE48FB84BOE5B"
+      "user-id": "C0CAE48FB84B0E5B"
     },
   ],
   "super-admins": [
     "Proximate",
     "Guff",
     "Thepjmm23",
-    "Killez"
+    "Killez",
+    "iron"
   ]
 }
