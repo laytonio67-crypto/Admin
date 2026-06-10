@@ -21,12 +21,21 @@
       "name": "iron",
       "user-id": "C0CAE48FB84B0E5B"
     },
+     {
+      "name": "Lexi",
+      "user-id": "467114172575CC01"
+    },
+    {
+      "name": "Lexi",
+      "user-id": "A4E06D8CDF522CDA"
+    },
   ],
   "super-admins": [
     "Proximate",
     "Guff",
     "Thepjmm23",
     "Killez",
-    "iron"
+    "iron",
+    "Lexi"
   ]
 }
